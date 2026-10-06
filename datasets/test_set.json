@@ -1,0 +1,806 @@
+{
+  "prompt": [
+    "List 10 common drugs that can be repurposed to treat Venous Thromboembolism Prevention.",
+    "List 10 common drugs that can be repurposed to treat Circadian Rhythm Disorder Variant.",
+    "List 10 common drugs that can be repurposed to treat Familial Biliary Degeneration.",
+    "List 10 common drugs that can be repurposed to treat Interstitial Pain Subtype.",
+    "List 10 common drugs that can be repurposed to treat Congenital Retinal Failure.",
+    "List 10 common drugs that can be repurposed to treat Progressive Epithelial Hypertrophy.",
+    "List 10 common drugs that can be repurposed to treat Familial Skeletal Dysfunction.",
+    "List 10 common drugs that can be repurposed to treat Interstitial Cognitive Degeneration.",
+    "List 10 common drugs that can be repurposed to treat Microvascular Dysfunction Associated Dysfunction.",
+    "List 10 common drugs that can be repurposed to treat Familial Pulmonary Hypoactivity.",
+    "List 10 common drugs that can be repurposed to treat Acute Gastric Hyperactivity.",
+    "List 10 common drugs that can be repurposed to treat Chronic Epithelial Hypoactivity.",
+    "List 10 common drugs that can be repurposed to treat Transient Cardiac Edema.",
+    "List 10 common drugs that can be repurposed to treat Muscle Hypertonia Complex.",
+    "List 10 common drugs that can be repurposed to treat Chronic Congestion Presentation.",
+    "List 10 common drugs that can be repurposed to treat Chronic Biliary Disease.",
+    "List 10 common drugs that can be repurposed to treat Bladder Cancer.",
+    "List 10 common drugs that can be repurposed to treat Refractory Endocrine Disease.",
+    "List 10 common drugs that can be repurposed to treat Atypical Dermal Syndrome.",
+    "List 10 common drugs that can be repurposed to treat Central Retinal Fibrosis.",
+    "List 10 common drugs that can be repurposed to treat Renal Cell Carcinoma.",
+    "List 10 common drugs that can be repurposed to treat Chronic Sensory Hypoactivity.",
+    "List 10 common drugs that can be repurposed to treat Peripheral Endocrine Sclerosis.",
+    "List 10 common drugs that can be repurposed to treat Interstitial Neurological Fibrosis.",
+    "List 10 common drugs that can be repurposed to treat Severe Dermal Hyperactivity.",
+    "List 10 common drugs that can be repurposed to treat Idiopathic Neuropathy Variant.",
+    "List 10 common drugs that can be repurposed to treat Mast Cell Activation Disorder.",
+    "List 10 common drugs that can be repurposed to treat Mast Cell Activation Disorder.",
+    "List 10 common drugs that can be repurposed to treat Visceral Hypersensitivity Disorder.",
+    "List 10 common drugs that can be repurposed to treat Thyroid Cancer (Differentiated).",
+    "List 10 common drugs that can be repurposed to treat Transient Immune Sclerosis.",
+    "List 10 common drugs that can be repurposed to treat Autoimmune Epithelial Failure.",
+    "List 10 common drugs that can be repurposed to treat Acquired Pure Red Cell Aplasia.",
+    "List 10 common drugs that can be repurposed to treat Congenital Motor Toxicity.",
+    "List 10 common drugs that can be repurposed to treat Aortic Regurgitation.",
+    "List 10 common drugs that can be repurposed to treat Transient Neurological Neuropathy.",
+    "List 10 common drugs that can be repurposed to treat Chronic Congestion Syndrome.",
+    "List 10 common drugs that can be repurposed to treat Interstitial Immune Necrosis.",
+    "List 10 common drugs that can be repurposed to treat Progressive Vascular Fibrosis.",
+    "List 10 common drugs that can be repurposed to treat Atypical Autonomic Disorder.",
+    "List 10 common drugs that can be repurposed to treat Autoimmune Biliary Disorder.",
+    "List 10 common drugs that can be repurposed to treat Visceral Hypersensitivity Disorder.",
+    "List 10 common drugs that can be repurposed to treat Wilson's Disease.",
+    "List 10 common drugs that can be repurposed to treat Progressive Supranuclear Palsy.",
+    "List 10 common drugs that can be repurposed to treat Adrenocortical Carcinoma.",
+    "List 10 common drugs that can be repurposed to treat Congenital Sensory Sclerosis.",
+    "List 10 common drugs that can be repurposed to treat Raynaud Phenomenon.",
+    "List 10 common drugs that can be repurposed to treat Lyme Disease.",
+    "List 10 common drugs that can be repurposed to treat Acquired Gastric Disorder.",
+    "List 10 common drugs that can be repurposed to treat Refractory Hepatic Fibrosis.",
+    "List 10 common drugs that can be repurposed to treat Hidradenitis Suppurativa.",
+    "List 10 common drugs that can be repurposed to treat Familial Biliary Failure.",
+    "List 10 common drugs that can be repurposed to treat Central Skeletal Edema.",
+    "List 10 common drugs that can be repurposed to treat Chronic Endocrine Degeneration.",
+    "List 10 common drugs that can be repurposed to treat Chronic Fatigue Disorder.",
+    "List 10 common drugs that can be repurposed to treat Familial Renal Necrosis.",
+    "List 10 common drugs that can be repurposed to treat Pulmonary Arterial Hypertension.",
+    "List 10 common drugs that can be repurposed to treat Interstitial Pain Variant.",
+    "List 10 common drugs that can be repurposed to treat Chronic Epithelial Hypoactivity.",
+    "List 10 common drugs that can be repurposed to treat Peripheral Muscular Disease.",
+    "List 10 common drugs that can be repurposed to treat Refractory Dermal Inflammation.",
+    "List 10 common drugs that can be repurposed to treat Familial Sensory Failure.",
+    "List 10 common drugs that can be repurposed to treat Acquired Sensory Disorder.",
+    "List 10 common drugs that can be repurposed to treat Chronic Sensory Dysregulation.",
+    "List 10 common drugs that can be repurposed to treat Vascular Spasm Disorder.",
+    "List 10 common drugs that can be repurposed to treat Idiopathic Cardiac Hypertrophy.",
+    "List 10 common drugs that can be repurposed to treat Peripheral Cognitive Necrosis.",
+    "List 10 common drugs that can be repurposed to treat Psoriasis.",
+    "List 10 common drugs that can be repurposed to treat Refractory Hematologic Neuropathy.",
+    "List 10 common drugs that can be repurposed to treat Transient Renal Disease.",
+    "List 10 common drugs that can be repurposed to treat Refractory Pulmonary Hyperactivity.",
+    "List 10 common drugs that can be repurposed to treat Interstitial Cardiac Inflammation.",
+    "List 10 common drugs that can be repurposed to treat Diabetic Retinopathy.",
+    "List 10 common drugs that can be repurposed to treat Severe Vascular Syndrome.",
+    "List 10 common drugs that can be repurposed to treat Central Autonomic Edema.",
+    "List 10 common drugs that can be repurposed to treat Chronic Immune Edema.",
+    "List 10 common drugs that can be repurposed to treat Interstitial Pain Complex.",
+    "List 10 common drugs that can be repurposed to treat Atypical Sensory Neuropathy.",
+    "List 10 common drugs that can be repurposed to treat Congenital Vestibular Hypoactivity.",
+    "List 10 common drugs that can be repurposed to treat Cognitive Slowing Disorder.",
+    "List 10 common drugs that can be repurposed to treat Ischemic Pulmonary Fibrosis.",
+    "List 10 common drugs that can be repurposed to treat Familial Cognitive Failure.",
+    "List 10 common drugs that can be repurposed to treat Focal Onset Seizures.",
+    "List 10 common drugs that can be repurposed to treat Vitiligo.",
+    "List 10 common drugs that can be repurposed to treat Ischemic Muscular Dysregulation.",
+    "List 10 common drugs that can be repurposed to treat Chronic Itching Condition.",
+    "List 10 common drugs that can be repurposed to treat Congenital Skeletal Fibrosis.",
+    "List 10 common drugs that can be repurposed to treat Central Vascular Failure.",
+    "List 10 common drugs that can be repurposed to treat Acquired Synovial Dysregulation.",
+    "List 10 common drugs that can be repurposed to treat Transient Neurological Neuropathy.",
+    "List 10 common drugs that can be repurposed to treat Chronic Congestion Syndrome.",
+    "List 10 common drugs that can be repurposed to treat Systemic Synovial Fibrosis.",
+    "List 10 common drugs that can be repurposed to treat Congenital Skeletal Hypertrophy.",
+    "List 10 common drugs that can be repurposed to treat Acquired Autonomic Failure.",
+    "List 10 common drugs that can be repurposed to treat Idiopathic Neuropathy Complex.",
+    "List 10 common drugs that can be repurposed to treat Transient Gastric Inflammation.",
+    "List 10 common drugs that can be repurposed to treat Autoimmune Cardiac Hypertrophy.",
+    "List 10 common drugs that can be repurposed to treat Circadian Rhythm Disorder Condition.",
+    "List 10 common drugs that can be repurposed to treat Parkinson's Disease.",
+    "List 10 common drugs that can be repurposed to treat Acquired Cardiac Disorder."
+  ],
+  "solution": [
+    [
+      "Rivaroxaban",
+      "Apixaban",
+      "Enoxaparin",
+      "Dabigatran",
+      "Fondaparinux"
+    ],
+    [
+      "Gabapentin",
+      "Levetiracetam",
+      "Clonidine",
+      "Amantadine",
+      "Baclofen"
+    ],
+    [
+      "Amitriptyline",
+      "Atorvastatin",
+      "Colchicine",
+      "Metoclopramide",
+      "Alprazolam"
+    ],
+    [
+      "Etanercept",
+      "Methotrexate",
+      "Prednisone",
+      "Mycophenolate",
+      "Cyclophosphamide"
+    ],
+    [
+      "Diclofenac",
+      "Denosumab",
+      "Vortioxetine",
+      "Gabapentin",
+      "Dimenhydrinate"
+    ],
+    [
+      "Valerian",
+      "Heparin",
+      "Amphetamine",
+      "Duloxetine",
+      "Atorvastatin"
+    ],
+    [
+      "Cimetidine",
+      "Propylthiouracil",
+      "Modafinil",
+      "Pentoxifylline",
+      "Omeprazole"
+    ],
+    [
+      "Dimenhydrinate",
+      "Dexmethylphenidate",
+      "Ivabradine",
+      "Daridorexant",
+      "Levocetirizine"
+    ],
+    [
+      "Loperamide",
+      "Sucralfate",
+      "Omeprazole",
+      "Budesonide",
+      "Rifaximin"
+    ],
+    [
+      "Omeprazole",
+      "Guanfacine",
+      "Losartan",
+      "Dabigatran",
+      "Fenofibrate"
+    ],
+    [
+      "Febuxostat",
+      "Probenecid",
+      "Imipramine",
+      "Temazepam",
+      "Diazepam"
+    ],
+    [
+      "Metoprolol",
+      "Fexofenadine",
+      "Famotidine",
+      "Nortriptyline",
+      "Semaglutide"
+    ],
+    [
+      "Warfarin",
+      "Fluvoxamine",
+      "Ondansetron",
+      "Sildenafil",
+      "Clonazepam"
+    ],
+    [
+      "Amantadine",
+      "Carbamazepine",
+      "Gabapentin",
+      "Baclofen",
+      "Donepezil"
+    ],
+    [
+      "Gabapentin",
+      "Carbamazepine",
+      "Topiramate",
+      "Clonidine",
+      "Donepezil"
+    ],
+    [
+      "Spironolactone",
+      "Buspirone",
+      "Nitroglycerin",
+      "Temazepam",
+      "Cimetidine"
+    ],
+    [
+      "Sacituzumab govitecan",
+      "Pembrolizumab",
+      "Erdafitinib",
+      "Sacituzumab govitecan",
+      "Atezolizumab"
+    ],
+    [
+      "Levocetirizine",
+      "Loratadine",
+      "Lisdexamfetamine",
+      "Dapagliflozin",
+      "Eszopiclone"
+    ],
+    [
+      "Levomilnacipran",
+      "Mirtazapine",
+      "Atenolol",
+      "Desipramine",
+      "Dapagliflozin"
+    ],
+    [
+      "Lisdexamfetamine",
+      "Levothyroxine",
+      "Imipramine",
+      "Ranolazine",
+      "Colchicine"
+    ],
+    [
+      "Nivolumab",
+      "Ipilimumab",
+      "Sunitinib",
+      "Pazopanib",
+      "Cabozantinib"
+    ],
+    [
+      "Amphetamine",
+      "Colchicine",
+      "Lansoprazole",
+      "Lisinopril",
+      "Mirtazapine"
+    ],
+    [
+      "Zolpidem",
+      "Armodafinil",
+      "Clonazepam",
+      "Teriparatide",
+      "Propylthiouracil"
+    ],
+    [
+      "Empagliflozin",
+      "Cetirizine",
+      "Ramelteon",
+      "Melatonin",
+      "Sildenafil"
+    ],
+    [
+      "Amiodarone",
+      "Oxazepam",
+      "Ranitidine",
+      "Meclizine",
+      "Escitalopram"
+    ],
+    [
+      "Ketoconazole",
+      "Isotretinoin",
+      "Azelaic Acid",
+      "Spironolactone",
+      "Clobetasol"
+    ],
+    [
+      "Etanercept",
+      "Cyclophosphamide",
+      "Prednisone",
+      "Sulfasalazine",
+      "Azathioprine"
+    ],
+    [
+      "Levetiracetam",
+      "Amantadine",
+      "Carbamazepine",
+      "Memantine",
+      "Modafinil"
+    ],
+    [
+      "Hydralazine",
+      "Ivabradine",
+      "Verapamil",
+      "Nitroglycerin",
+      "Spironolactone"
+    ],
+    [
+      "Lenvatinib",
+      "Sorafenib",
+      "Cabozantinib",
+      "Vandetanib",
+      "Selpercatinib"
+    ],
+    [
+      "Cyproheptadine",
+      "Dexmethylphenidate",
+      "Aspirin",
+      "Dimenhydrinate",
+      "Chlorpheniramine"
+    ],
+    [
+      "Bupropion",
+      "Alprazolam",
+      "Epoprostenol",
+      "Imipramine",
+      "Dimenhydrinate"
+    ],
+    [
+      "Cyclosporine",
+      "Prednisone",
+      "Rituximab",
+      "Cyclophosphamide",
+      "Eltrombopag"
+    ],
+    [
+      "Apixaban",
+      "Sildenafil",
+      "Naproxen",
+      "Duloxetine",
+      "Triazolam"
+    ],
+    [
+      "Nifedipine",
+      "Enalapril",
+      "Hydralazine",
+      "Furosemide",
+      "Digoxin"
+    ],
+    [
+      "Hydrochlorothiazide",
+      "Empagliflozin",
+      "Amphetamine",
+      "Levomilnacipran",
+      "Escitalopram"
+    ],
+    [
+      "Levothyroxine",
+      "Liraglutide",
+      "Cabergoline",
+      "Pioglitazone",
+      "Dapagliflozin"
+    ],
+    [
+      "Diazepam",
+      "Orlistat",
+      "Probenecid",
+      "Atenolol",
+      "Semaglutide"
+    ],
+    [
+      "Atorvastatin",
+      "Clemastine",
+      "Propylthiouracil",
+      "Atenolol",
+      "Lemborexant"
+    ],
+    [
+      "Triazolam",
+      "Sildenafil",
+      "Fluoxetine",
+      "Celecoxib",
+      "Omeprazole"
+    ],
+    [
+      "Escitalopram",
+      "Omeprazole",
+      "Venlafaxine",
+      "Levomilnacipran",
+      "Methylphenidate"
+    ],
+    [
+      "Minoxidil",
+      "Clobetasol",
+      "Isotretinoin",
+      "Ketoconazole",
+      "Azelaic Acid"
+    ],
+    [
+      "Penicillamine",
+      "Trientine",
+      "Zinc acetate",
+      "Tetrathiomolybdate",
+      "Dimercaprol"
+    ],
+    [
+      "Riluzole",
+      "Davunetide",
+      "Tideglusib",
+      "Coenzyme Q10",
+      "Rasagiline"
+    ],
+    [
+      "Mitotane",
+      "Etoposide",
+      "Doxorubicin",
+      "Cisplatin",
+      "Pembrolizumab"
+    ],
+    [
+      "Vortioxetine",
+      "Desipramine",
+      "Ramelteon",
+      "Bupropion",
+      "Fluoxetine"
+    ],
+    [
+      "Nifedipine",
+      "Amlodipine",
+      "Sildenafil",
+      "Bosentan",
+      "Fluoxetine"
+    ],
+    [
+      "Doxycycline",
+      "Amoxicillin",
+      "Cefuroxime",
+      "Ceftriaxone",
+      "Azithromycin"
+    ],
+    [
+      "Ticagrelor",
+      "Sitagliptin",
+      "Zaleplon",
+      "Atenolol",
+      "Valsartan"
+    ],
+    [
+      "Maprotiline",
+      "Omeprazole",
+      "Pegloticase",
+      "Temazepam",
+      "Diphenhydramine"
+    ],
+    [
+      "Secukinumab",
+      "Bimekizumab",
+      "Adalimumab",
+      "Doxycycline",
+      "Clindamycin"
+    ],
+    [
+      "Famotidine",
+      "Buspirone",
+      "Epoprostenol",
+      "Daridorexant",
+      "Clomipramine"
+    ],
+    [
+      "Febuxostat",
+      "Hydrochlorothiazide",
+      "Sacubitril",
+      "Valerian",
+      "Daridorexant"
+    ],
+    [
+      "Pantoprazole",
+      "Prasugrel",
+      "Brompheniramine",
+      "Meloxicam",
+      "Atenolol"
+    ],
+    [
+      "Sertraline",
+      "Bupropion",
+      "Lamotrigine",
+      "Lithium",
+      "Olanzapine"
+    ],
+    [
+      "Levothyroxine",
+      "Brompheniramine",
+      "Ranitidine",
+      "Orlistat",
+      "Nefazodone"
+    ],
+    [
+      "Sildenafil",
+      "Bosentan",
+      "Epoprostenol",
+      "Riociguat",
+      "Ambrisentan"
+    ],
+    [
+      "Tiotropium",
+      "Albuterol",
+      "Ipratropium",
+      "Theophylline",
+      "Nintedanib"
+    ],
+    [
+      "Metoprolol",
+      "Fexofenadine",
+      "Famotidine",
+      "Nortriptyline",
+      "Semaglutide"
+    ],
+    [
+      "Desvenlafaxine",
+      "Naproxen",
+      "Carvedilol",
+      "Fluoxetine",
+      "Oxazepam"
+    ],
+    [
+      "Pantoprazole",
+      "Naltrexone",
+      "Metoprolol",
+      "Atenolol",
+      "Dexmethylphenidate"
+    ],
+    [
+      "Citalopram",
+      "Lansoprazole",
+      "Ranitidine",
+      "Evolocumab",
+      "Clonidine"
+    ],
+    [
+      "Vilazodone",
+      "Digoxin",
+      "Lemborexant",
+      "Valsartan",
+      "Buspirone"
+    ],
+    [
+      "Maprotiline",
+      "Amlodipine",
+      "Lemborexant",
+      "Carvedilol",
+      "Suvorexant"
+    ],
+    [
+      "Montelukast",
+      "Budesonide",
+      "Ipratropium",
+      "Nintedanib",
+      "Pirfenidone"
+    ],
+    [
+      "Amiodarone",
+      "Tirzepatide",
+      "Nefazodone",
+      "Amitriptyline",
+      "Acetaminophen"
+    ],
+    [
+      "Armodafinil",
+      "Nitroglycerin",
+      "Ivabradine",
+      "Buspirone",
+      "Meloxicam"
+    ],
+    [
+      "Secukinumab",
+      "Infliximab",
+      "Ustekinumab",
+      "Methotrexate",
+      "Ixekizumab"
+    ],
+    [
+      "Propylthiouracil",
+      "Ezetimibe",
+      "Ivabradine",
+      "Ambrisentan",
+      "Pegloticase"
+    ],
+    [
+      "Promethazine",
+      "Doxepin",
+      "Allopurinol",
+      "Bupropion",
+      "Levocetirizine"
+    ],
+    [
+      "Desloratadine",
+      "Ambrisentan",
+      "Meloxicam",
+      "Fluvoxamine",
+      "Scopolamine"
+    ],
+    [
+      "Nortriptyline",
+      "Meloxicam",
+      "Duloxetine",
+      "Diclofenac",
+      "Famotidine"
+    ],
+    [
+      "Ranibizumab",
+      "Aflibercept",
+      "Bevacizumab",
+      "Faricimab",
+      "Fenofibrate"
+    ],
+    [
+      "Vortioxetine",
+      "Escitalopram",
+      "Chlorpheniramine",
+      "Febuxostat",
+      "Lansoprazole"
+    ],
+    [
+      "Sildenafil",
+      "Clomipramine",
+      "Ibuprofen",
+      "Zolpidem",
+      "Famotidine"
+    ],
+    [
+      "Lansoprazole",
+      "Citalopram",
+      "Levocetirizine",
+      "Spironolactone",
+      "Suvorexant"
+    ],
+    [
+      "Cabergoline",
+      "Levothyroxine",
+      "Empagliflozin",
+      "Glimepiride",
+      "Metformin"
+    ],
+    [
+      "Lisinopril",
+      "Hydroxyzine",
+      "Scopolamine",
+      "Alprazolam",
+      "Venlafaxine"
+    ],
+    [
+      "Valsartan",
+      "Fenofibrate",
+      "Lisinopril",
+      "Lansoprazole",
+      "Fluoxetine"
+    ],
+    [
+      "Spironolactone",
+      "Minoxidil",
+      "Clobetasol",
+      "Doxycycline",
+      "Isotretinoin"
+    ],
+    [
+      "Desipramine",
+      "Naproxen",
+      "Aspirin",
+      "Meloxicam",
+      "Furosemide"
+    ],
+    [
+      "Amlodipine",
+      "Ramelteon",
+      "Dapagliflozin",
+      "Loratadine",
+      "Meloxicam"
+    ],
+    [
+      "Cenobamate",
+      "Ornithine phenylacetate",
+      "Perampanel",
+      "Brivaracetam",
+      "Eslicarbazepine"
+    ],
+    [
+      "Ruxolitinib cream",
+      "Afamelanotide",
+      "Tacrolimus",
+      "Narrowband UVB",
+      "Methotrexate"
+    ],
+    [
+      "Hydrochlorothiazide",
+      "Buspirone",
+      "Maprotiline",
+      "Loratadine",
+      "Fluoxetine"
+    ],
+    [
+      "Azathioprine",
+      "Methotrexate",
+      "Mycophenolate",
+      "Etanercept",
+      "Sulfasalazine"
+    ],
+    [
+      "Celecoxib",
+      "Sitagliptin",
+      "Liraglutide",
+      "Probenecid",
+      "Naltrexone"
+    ],
+    [
+      "Vilazodone",
+      "Dabigatran",
+      "Atenolol",
+      "Celecoxib",
+      "Fexofenadine"
+    ],
+    [
+      "Lorazepam",
+      "Heparin",
+      "Vilazodone",
+      "Dextroamphetamine",
+      "Armodafinil"
+    ],
+    [
+      "Hydrochlorothiazide",
+      "Empagliflozin",
+      "Amphetamine",
+      "Levomilnacipran",
+      "Escitalopram"
+    ],
+    [
+      "Cabergoline",
+      "Insulin Glargine",
+      "Liraglutide",
+      "Metformin",
+      "Pioglitazone"
+    ],
+    [
+      "Oxazepam",
+      "Mirtazapine",
+      "Methimazole",
+      "Lansoprazole",
+      "Rivaroxaban"
+    ],
+    [
+      "Teriparatide",
+      "Ivabradine",
+      "Cilostazol",
+      "Carvedilol",
+      "Atomoxetine"
+    ],
+    [
+      "Hydrochlorothiazide",
+      "Methylphenidate",
+      "Alprazolam",
+      "Ranitidine",
+      "Cimetidine"
+    ],
+    [
+      "Azathioprine",
+      "Methotrexate",
+      "Cyclophosphamide",
+      "Sulfasalazine",
+      "Colchicine"
+    ],
+    [
+      "Losartan",
+      "Sacubitril",
+      "Suvorexant",
+      "Furosemide",
+      "Orlistat"
+    ],
+    [
+      "Valerian",
+      "Epoprostenol",
+      "Clomipramine",
+      "Bupropion",
+      "Cyproheptadine"
+    ],
+    [
+      "Adapalene",
+      "Minoxidil",
+      "Clobetasol",
+      "Doxycycline",
+      "Tacrolimus"
+    ],
+    [
+      "Levodopa/Carbidopa",
+      "Pramipexole",
+      "Rasagiline",
+      "Amantadine",
+      "Entacapone"
+    ],
+    [
+      "Prochlorperazine",
+      "Meloxicam",
+      "Valsartan",
+      "Triazolam",
+      "Fluoxetine"
+    ]
+  ]
+}

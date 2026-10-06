@@ -1,0 +1,16 @@
+numpy
+matplotlib
+openai
+anthropic
+google
+openpyxl
+tqdm
+huggingface_hub
+datasets
+peft
+absl-py
+ml_collections
+wandb
+scipy
+scikit-learn
+umap-learn

@@ -1,0 +1,8 @@
+__pycache__/
+unsloth_compiled_cache/
+outputs/
+wandb/
+logs/
+activations/
+grpo_trainer_lora_model/
+tea_debug.log
